@@ -26,7 +26,7 @@
     "test": "mocha --reporter dot"
   },
   "dependencies": {
-    "crc": "^3.4.4",
+    "crc": "https://github.com/zcmgyu/node-crc",
     "readable-stream": "^2.0.0"
   },
   "devDependencies": {
